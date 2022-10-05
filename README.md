@@ -16,26 +16,24 @@ Trained UNet model. Image input shape - 256x256.
 
 Labels:
 
-0 - unknown
-1 - building
-2 - sky 
-3 - tree
-4 - road
-5 -human
-6 - water
-7 - streetlight
-8 - mountatin
-9 - car
-10 - bicycle
-11 - animal
-12 - bridge
-13 - ground
-14 - grass
-15 - pole
-16 - trafficlight
-17 - motorbike
-
-
+0. unknown
+1. building
+2. sky 
+3. tree
+4. road
+5. human
+6. water
+7. streetlight
+8. mountatin
+9. car
+10. bicycle
+11. animal
+12. bridge
+13. ground
+14. grass
+15. pole
+16. trafficlight
+17. motorbike
 
 
 Architecture:
