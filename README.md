@@ -4,9 +4,41 @@
 
 Image Semantic Segmentation.
 
+## Used Libraries
+
+1. Segmentation_models (https://segmentation-models.readthedocs.io/en/latest/)
+2. Tensorflow
+3. Matplotlib
+
 ## Algorithm
 
-Trained UNet model. Architecture:
+Trained UNet model. Image input shape - 256x256.
+
+Labels:
+
+0 - unknown
+1 - building
+2 - sky 
+3 - tree
+4 - road
+5 -human
+6 - water
+7 - streetlight
+8 - mountatin
+9 - car
+10 - bicycle
+11 - animal
+12 - bridge
+13 - ground
+14 - grass
+15 - pole
+16 - trafficlight
+17 - motorbike
+
+
+
+
+Architecture:
 
 ![model_plot](https://user-images.githubusercontent.com/71443069/194156626-f2e052a5-a9ce-4fa9-b440-81e4b5ab723e.png)
 
