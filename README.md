@@ -10,6 +10,10 @@ Image Semantic Segmentation.
 2. Tensorflow
 3. Matplotlib
 
+## Used dataset
+
+https://www.kaggle.com/datasets/residentmario/ade20k-outdoors
+
 ## Algorithm
 
 Trained UNet model. Image input shape - 256x256.
