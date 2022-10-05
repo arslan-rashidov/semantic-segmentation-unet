@@ -7,6 +7,8 @@ Image Semantic Segmentation.
 ## Algorithm
 
 Trained UNet model. Architecture:
+![model_plot](https://user-images.githubusercontent.com/71443069/194156626-f2e052a5-a9ce-4fa9-b440-81e4b5ab723e.png)
+
 
 
 ## Current Best Model
